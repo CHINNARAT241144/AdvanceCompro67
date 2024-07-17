@@ -1,4 +1,4 @@
-const names = ['Big', 'Book', 'Boy'];
+const names = ['Dew', 'Boss', 'Jez'];
 
 
 console.log('while loop');
