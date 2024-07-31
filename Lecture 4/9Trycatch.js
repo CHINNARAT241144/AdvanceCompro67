@@ -1,5 +1,6 @@
 function criticalColde(){
     throw "thowing an exception"
+
 }
 
 function logError(theException) {
